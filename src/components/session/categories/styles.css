@@ -1,0 +1,10 @@
+.setbackground {
+    background-image: url("./LapTopHeader.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.setbackground-Phone{
+    background-image: url("./IphoneHeader.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
